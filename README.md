@@ -1,5 +1,5 @@
 # charlie_off2016
-office2016 MAC版pojie版
+office2016 MAC版
 
 本文是Microsoft office 2016 for Mac pojie 版下载安装教程，自己工作中用到了总结分享给大家。
 
